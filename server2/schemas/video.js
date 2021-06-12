@@ -1,6 +1,5 @@
 const mongoose = require('mongoose');
-//mongoose.connect("mongodb://root:root@localhost:27017/?authSource=nodedb&readPreference=primary&ssl=false", { useUnifiedTopology: true, useNewUrlParser: true })
-    //.catch(e => console.log(e));
+
 const Schema = mongoose.Schema;
 const videoSchema = new Schema({
     userId:{
