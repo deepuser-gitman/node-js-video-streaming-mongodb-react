@@ -1,5 +1,5 @@
 # node-js-video-streaming-mongodb-react
-Youtube like application where user can upload video, see the list of video and view it.
+#Youtube like simple application where user can upload video, see the list of video and view it.
 
 Used:
 
